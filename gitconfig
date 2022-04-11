@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tim.boulais@gmail.com
+	name = Tim Boulais
